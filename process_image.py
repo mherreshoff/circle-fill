@@ -1,12 +1,11 @@
 #!/usr/bin/env python3
 
 # To run this you need to install some python3 packages:
-# pip3 install networkx numpy scipy pillow
+# pip3 install numpy scipy pillow
 # Should get them all for you.
 
 import sys
 
-import networkx as nx
 import numpy as np
 import scipy
 import scipy.optimize
